@@ -1,6 +1,6 @@
 # Switch channels in Windows Insider
 
-![Screenshot of Switch channels in Windows Insider](https://imgur.com/a/UEdMOYD)
+![Screenshot of Switch channels in Windows Insider](https://i.imgur.com/4b5mdZL.png)
 
 ## Description
 
